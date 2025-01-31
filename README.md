@@ -80,7 +80,12 @@ git remote add origin https://github.com/tu-usuario/nombre-del-repositorio.git
 ```
 
 ## 9: Sube los cambios al repositorio remoto en GitHub
-
+La rama master del repositorio local se renombra por main
 ```Git
-git push -u origin master
+git branch -M main
+```
+
+Se envía los cambios a GitHub
+```Git
+git push -u origin main
 ```
