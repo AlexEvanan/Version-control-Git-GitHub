@@ -79,7 +79,7 @@ En la terminal, ejecuta este comando para vincular el repositorio remoto.
 git remote add origin https://github.com/tu-usuario/nombre-del-repositorio.git
 ```
 
-## 9: Sube los cambios al repositorio remoto en GitHub
+## 10: Sube los cambios al repositorio remoto en GitHub
 La rama master del repositorio local se renombra por main
 ```Git
 git branch -M main
