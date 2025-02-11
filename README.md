@@ -62,7 +62,7 @@ git reset
 
 ## 7: Ver estado actual del repositorio
 ```Git
-git git status
+git status
 ```
 
 ## 8: Crear un Repositorio en GitHub
